@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @QaisSultani
-- 👀 I’m interested in AI 
+- 👀 I’m interested in MERN Stack and AI
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... [qais.1601138@gmail.com]
