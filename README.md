@@ -1,4 +1,4 @@
-- I'm Muhammad Qais Sultani, a Computer Scientist, with 2 year of Software Development industry experience, who holds a Bachelor's degree in Computer Science from GIK Institute.
+- I'm Muhammad Qais Sultani, a Software Engineer, with 2 year of Software Development industry experience, who holds a Bachelor's degree in Computer Science from GIK Institute.
 - I have developed a diverse skill set that includes proficiency in React, Node, Next, Redux, GraphQL, HTML, CSS, JavaScript, TypeScript, Python, C/C++, and more. 
 - My work style is characterized by precision, creativity, and a commitment to delivering high-quality solutions. 
 - As a Software Engineer at Devsinc, I've had the opportunity to contribute to the development of innovative software solutions.
